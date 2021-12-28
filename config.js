@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: '💤 Good Night,',
 
   // Weather
-  weatherKey: '3465d17feb9ef0f2efaabac0d7ea99cb',
+  weatherKey: 'f137f95e34d488b653279fc5def4a840',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -54,7 +54,7 @@ const CONFIG = {
       id: '3',
       name: 'GitHub',
       icon: 'github',
-      link: 'https://github.com/davigamer987',
+      link: 'https://github.com/millsonhub',
     },
     {
       id: '4',
@@ -92,8 +92,8 @@ const CONFIG = {
         link: 'https://music.youtube.com',
       },
       {
-        name: 'Nostalgia Playlist',
-        link: 'https://music.youtube.com/playlist?list=PLgGa7baMZopRCAW7lETWdtpTv0VPO7zC0',
+        name: 'Google Drive',
+        link: 'https://drive.google.com',
       },
       {
         name: 'Netflix',
